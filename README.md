@@ -42,7 +42,7 @@ distributed_file_system_golang/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MuhammadMahdiAmirpour/distributed_file_system_golang.git
+   git clone https://github.com/m-amirpour/distributed_file_system_golang.git
    cd distributed_file_system_golang
    ```
 
@@ -58,15 +58,10 @@ distributed_file_system_golang/
 - **Scalability**: Easy to add new storage nodes
 - **Data Replication**: Maintain multiple copies for reliability
 
-## 🎓 Acknowledgments
-
-This project was developed with the help of the following tutorial:
-- [Distributed File System in Go](https://www.youtube.com/watch?v=bymQakvTY40)
-
 ## 👨‍💻 Author
 
 **Muhammad Mahdi Amirpour**
-- GitHub: [@MuhammadMahdiAmirpour](https://github.com/MuhammadMahdiAmirpour)
+- GitHub: [@MuhammadMahdiAmirpour](https://github.com/m-amirpour)
 
 ---
 
